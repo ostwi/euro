@@ -1,0 +1,14 @@
+version: "3.9"  # optional since v1.27.0
+services:
+  app:
+    image: ostwi/euro20_21:0.0.1-SNAPSHOT
+    ports:
+      - 80:8080
+    depends_on:
+      - postgres
+    env_file:
+      - .env
+  postgres:
+    image: postgres:latest
+    env_file:
+      - .env

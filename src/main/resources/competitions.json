@@ -1,0 +1,3362 @@
+{
+  "count": 152,
+  "competitions": [
+    {
+      "area": {
+        "ensignUrl": null,
+        "countryCode": "AFR",
+        "name": "Africa",
+        "id": 2001
+      },
+      "lastUpdated": "2018-06-04T23:54:04Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 1,
+        "endDate": "2021-11-16",
+        "id": 555,
+        "startDate": "2019-09-04"
+      },
+      "name": "WC Qualification",
+      "id": 2006,
+      "numberOfAvailableSeasons": 2,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": null,
+        "countryCode": "ARG",
+        "name": "Argentina",
+        "id": 2011
+      },
+      "lastUpdated": "2021-04-14T06:00:34Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 6,
+        "endDate": "2021-12-26",
+        "id": 716,
+        "startDate": "2021-03-13"
+      },
+      "name": "Primera B Nacional",
+      "id": 2023,
+      "numberOfAvailableSeasons": 5,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": null,
+        "countryCode": "ARG",
+        "name": "Argentina",
+        "id": 2011
+      },
+      "lastUpdated": "2020-09-10T13:44:41Z",
+      "code": "ASL",
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": null,
+        "endDate": "2021-12-12",
+        "id": 715,
+        "startDate": "2021-07-18"
+      },
+      "name": "Superliga Argentina",
+      "id": 2024,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_TWO"
+    },
+    {
+      "area": {
+        "ensignUrl": null,
+        "countryCode": "ARG",
+        "name": "Argentina",
+        "id": 2011
+      },
+      "lastUpdated": "2019-05-03T05:08:18Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": null,
+        "endDate": "2019-04-04",
+        "id": 430,
+        "startDate": "2019-04-04"
+      },
+      "name": "Supercopa Argentina",
+      "id": 2025,
+      "numberOfAvailableSeasons": 2,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": null,
+        "countryCode": "ARG",
+        "name": "Argentina",
+        "id": 2011
+      },
+      "lastUpdated": "2021-04-13T16:14:14Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 9,
+        "endDate": "2021-05-30",
+        "id": 717,
+        "startDate": "2021-02-12"
+      },
+      "name": "Copa Liga Profesional",
+      "id": 2149,
+      "numberOfAvailableSeasons": 2,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": null,
+        "countryCode": "ASI",
+        "name": "Asia",
+        "id": 2014
+      },
+      "lastUpdated": "2021-03-30T21:24:42Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 10,
+        "endDate": "2021-11-16",
+        "id": 465,
+        "startDate": "2019-06-06"
+      },
+      "name": "WC Qualification",
+      "id": 2147,
+      "numberOfAvailableSeasons": 2,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": null,
+        "countryCode": "AUS",
+        "name": "Australia",
+        "id": 2015
+      },
+      "lastUpdated": "2021-04-14T21:28:14Z",
+      "code": "AAL",
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": null,
+        "endDate": "2021-06-30",
+        "id": 682,
+        "startDate": "2020-12-27"
+      },
+      "name": "A League",
+      "id": 2008,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_TWO"
+    },
+    {
+      "area": {
+        "ensignUrl": null,
+        "countryCode": "AUS",
+        "name": "Australia",
+        "id": 2015
+      },
+      "lastUpdated": "2019-10-23T23:59:22Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": null,
+        "endDate": "2020-10-28",
+        "id": 592,
+        "startDate": "2020-02-19"
+      },
+      "name": "FFA Cup",
+      "id": 2026,
+      "numberOfAvailableSeasons": 3,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg",
+        "countryCode": "AUT",
+        "name": "Austria",
+        "id": 2016
+      },
+      "lastUpdated": "2021-04-14T21:28:16Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 23,
+        "endDate": "2021-05-21",
+        "id": 626,
+        "startDate": "2020-09-11"
+      },
+      "name": "Erste Liga",
+      "id": 2020,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg",
+        "countryCode": "AUT",
+        "name": "Austria",
+        "id": 2016
+      },
+      "lastUpdated": "2021-04-11T23:59:56Z",
+      "code": "ABL",
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 25,
+        "endDate": "2021-05-31",
+        "id": 620,
+        "startDate": "2020-09-11"
+      },
+      "name": "Bundesliga",
+      "id": 2012,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_THREE"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg",
+        "countryCode": "AUT",
+        "name": "Austria",
+        "id": 2016
+      },
+      "lastUpdated": "2018-08-23T15:47:33Z",
+      "code": "APL",
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": {
+          "crestUrl": "https://crests.football-data.org/2022.svg",
+          "name": "spusu SKN St. Pölten",
+          "tla": "STP",
+          "id": 2022,
+          "shortName": "St. Pölten"
+        },
+        "currentMatchday": null,
+        "endDate": "2018-06-03",
+        "id": 24,
+        "startDate": "2018-05-31"
+      },
+      "name": "Playoffs 1/2",
+      "id": 2022,
+      "numberOfAvailableSeasons": 1,
+      "plan": "TIER_TWO"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg",
+        "countryCode": "AUT",
+        "name": "Austria",
+        "id": 2016
+      },
+      "lastUpdated": "2021-03-04T16:50:00Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": null,
+        "endDate": "2021-05-01",
+        "id": 627,
+        "startDate": "2020-08-28"
+      },
+      "name": "ÖFB Cup",
+      "id": 2027,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg",
+        "countryCode": "BEL",
+        "name": "Belgium",
+        "id": 2023
+      },
+      "lastUpdated": "2021-03-15T03:05:04Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": null,
+        "endDate": "2021-05-31",
+        "id": 654,
+        "startDate": "2020-08-23"
+      },
+      "name": "Coupe de Belgique",
+      "id": 2028,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg",
+        "countryCode": "BEL",
+        "name": "Belgium",
+        "id": 2023
+      },
+      "lastUpdated": "2021-04-11T21:51:07Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 27,
+        "endDate": "2021-05-31",
+        "id": 610,
+        "startDate": "2020-08-21"
+      },
+      "name": "Division 1B",
+      "id": 2033,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg",
+        "countryCode": "BEL",
+        "name": "Belgium",
+        "id": 2023
+      },
+      "lastUpdated": "2021-04-13T10:40:00Z",
+      "code": "BJL",
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 33,
+        "endDate": "2021-05-31",
+        "id": 609,
+        "startDate": "2020-08-08"
+      },
+      "name": "Jupiler Pro League",
+      "id": 2009,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_TWO"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg",
+        "countryCode": "BEL",
+        "name": "Belgium",
+        "id": 2023
+      },
+      "lastUpdated": "2019-07-21T23:00:07Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": null,
+        "endDate": "2019-07-20",
+        "id": 536,
+        "startDate": "2019-07-20"
+      },
+      "name": "Supercoupe de Belgique",
+      "id": 2010,
+      "numberOfAvailableSeasons": 3,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg",
+        "countryCode": "BEL",
+        "name": "Belgium",
+        "id": 2023
+      },
+      "lastUpdated": "2018-06-02T13:08:02Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": null,
+        "endDate": "2018-05-23",
+        "id": 34,
+        "startDate": "2018-03-31"
+      },
+      "name": "Playoffs II",
+      "id": 2032,
+      "numberOfAvailableSeasons": 1,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": null,
+        "countryCode": "BOL",
+        "name": "Bolivia",
+        "id": 2028
+      },
+      "lastUpdated": "2021-04-13T02:55:00Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 4,
+        "endDate": "2022-01-01",
+        "id": 718,
+        "startDate": "2021-03-09"
+      },
+      "name": "LFPB",
+      "id": 2034,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bosnia_and_Herzegovina.svg",
+        "countryCode": "BIH",
+        "name": "Bosnia and Herzegovina",
+        "id": 2030
+      },
+      "lastUpdated": "2021-04-12T23:59:54Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 25,
+        "endDate": "2021-05-30",
+        "id": 598,
+        "startDate": "2020-08-01"
+      },
+      "name": "Premier Liga",
+      "id": 2035,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": null,
+        "countryCode": "BRA",
+        "name": "Brazil",
+        "id": 2032
+      },
+      "lastUpdated": "2021-04-14T20:50:07Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": null,
+        "endDate": "2021-10-27",
+        "id": 719,
+        "startDate": "2021-03-10"
+      },
+      "name": "Copa do Brasil",
+      "id": 2037,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": null,
+        "countryCode": "BRA",
+        "name": "Brazil",
+        "id": 2032
+      },
+      "lastUpdated": "2021-02-07T01:40:16Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 13,
+        "endDate": "2020-11-22",
+        "id": 595,
+        "startDate": "2020-05-17"
+      },
+      "name": "Série D",
+      "id": 2038,
+      "numberOfAvailableSeasons": 3,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": null,
+        "countryCode": "BRA",
+        "name": "Brazil",
+        "id": 2032
+      },
+      "lastUpdated": "2021-01-31T02:15:02Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 13,
+        "endDate": "2020-10-31",
+        "id": 594,
+        "startDate": "2020-05-02"
+      },
+      "name": "Série C",
+      "id": 2036,
+      "numberOfAvailableSeasons": 3,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": null,
+        "countryCode": "BRA",
+        "name": "Brazil",
+        "id": 2032
+      },
+      "lastUpdated": "2021-01-30T11:55:31Z",
+      "code": "BSB",
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 24,
+        "endDate": "2020-11-28",
+        "id": 593,
+        "startDate": "2020-05-01"
+      },
+      "name": "Série B",
+      "id": 2029,
+      "numberOfAvailableSeasons": 3,
+      "plan": "TIER_THREE"
+    },
+    {
+      "area": {
+        "ensignUrl": null,
+        "countryCode": "BRA",
+        "name": "Brazil",
+        "id": 2032
+      },
+      "lastUpdated": "2021-02-26T13:16:24Z",
+      "code": "BSA",
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 37,
+        "endDate": "2021-02-24",
+        "id": 589,
+        "startDate": "2020-08-09"
+      },
+      "name": "Série A",
+      "id": 2013,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_ONE"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg",
+        "countryCode": "BGR",
+        "name": "Bulgaria",
+        "id": 2035
+      },
+      "lastUpdated": "2021-04-14T21:05:16Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": null,
+        "endDate": "2021-05-30",
+        "id": 639,
+        "startDate": "2020-09-08"
+      },
+      "name": "Kupa na Bulgarija",
+      "id": 2039,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg",
+        "countryCode": "BGR",
+        "name": "Bulgaria",
+        "id": 2035
+      },
+      "lastUpdated": "2021-04-14T00:00:11Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 24,
+        "endDate": "2021-05-30",
+        "id": 611,
+        "startDate": "2020-08-08"
+      },
+      "name": "A PFG",
+      "id": 2040,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": null,
+        "countryCode": "CAN",
+        "name": "Canada",
+        "id": 2040
+      },
+      "lastUpdated": "2020-09-10T13:48:36Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": null,
+        "endDate": "2020-09-24",
+        "id": 558,
+        "startDate": "2020-06-16"
+      },
+      "name": "Canadian Championship",
+      "id": 2041,
+      "numberOfAvailableSeasons": 3,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": null,
+        "countryCode": "CHL",
+        "name": "Chile",
+        "id": 2045
+      },
+      "lastUpdated": "2019-03-24T20:10:07Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": null,
+        "endDate": "2019-03-23",
+        "id": 435,
+        "startDate": "2019-03-23"
+      },
+      "name": "Supercopa de Chile",
+      "id": 2043,
+      "numberOfAvailableSeasons": 3,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": null,
+        "countryCode": "CHL",
+        "name": "Chile",
+        "id": 2045
+      },
+      "lastUpdated": "2021-02-18T02:45:00Z",
+      "code": "CPD",
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 20,
+        "endDate": "2020-11-28",
+        "id": 560,
+        "startDate": "2020-01-24"
+      },
+      "name": "Primera División",
+      "id": 2048,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_THREE"
+    },
+    {
+      "area": {
+        "ensignUrl": null,
+        "countryCode": "CHL",
+        "name": "Chile",
+        "id": 2045
+      },
+      "lastUpdated": "2018-06-05T00:01:23Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": null,
+        "endDate": "2017-12-21",
+        "id": 44,
+        "startDate": "2017-11-25"
+      },
+      "name": "Playoffs 1/2",
+      "id": 2042,
+      "numberOfAvailableSeasons": 1,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": null,
+        "countryCode": "CHN",
+        "name": "China PR",
+        "id": 2046
+      },
+      "lastUpdated": "2020-11-12T16:29:39Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 14,
+        "endDate": "2020-10-31",
+        "id": 587,
+        "startDate": "2020-02-22"
+      },
+      "name": "Chinese Super League",
+      "id": 2044,
+      "numberOfAvailableSeasons": 3,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": null,
+        "countryCode": "COL",
+        "name": "Colombia",
+        "id": 2049
+      },
+      "lastUpdated": "2021-04-14T14:45:16Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 18,
+        "endDate": "2021-11-28",
+        "id": 685,
+        "startDate": "2021-01-17"
+      },
+      "name": "Liga Postobón",
+      "id": 2045,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": null,
+        "countryCode": "COL",
+        "name": "Colombia",
+        "id": 2049
+      },
+      "lastUpdated": "2018-06-05T00:02:32Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": null,
+        "endDate": "2019-01-27",
+        "id": 438,
+        "startDate": "2019-01-24"
+      },
+      "name": "Superliga de Colombia",
+      "id": 2046,
+      "numberOfAvailableSeasons": 2,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",
+        "countryCode": "HRV",
+        "name": "Croatia",
+        "id": 2058
+      },
+      "lastUpdated": "2021-04-12T01:40:04Z",
+      "code": "PRVA",
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 29,
+        "endDate": "2021-05-30",
+        "id": 621,
+        "startDate": "2020-08-15"
+      },
+      "name": "Prva Liga",
+      "id": 2047,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg",
+        "countryCode": "CZE",
+        "name": "Czech Republic",
+        "id": 2062
+      },
+      "lastUpdated": "2021-04-14T21:28:16Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 26,
+        "endDate": "2021-05-30",
+        "id": 612,
+        "startDate": "2020-08-22"
+      },
+      "name": "Synot Liga",
+      "id": 2049,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg",
+        "countryCode": "DNK",
+        "name": "Denmark",
+        "id": 2065
+      },
+      "lastUpdated": "2021-04-14T00:00:11Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": null,
+        "endDate": "2021-05-13",
+        "id": 640,
+        "startDate": "2020-09-01"
+      },
+      "name": "DBU Pokalen",
+      "id": 2051,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg",
+        "countryCode": "DNK",
+        "name": "Denmark",
+        "id": 2065
+      },
+      "lastUpdated": "2021-04-13T01:05:02Z",
+      "code": "DSU",
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 22,
+        "endDate": "2021-05-30",
+        "id": 622,
+        "startDate": "2020-09-11"
+      },
+      "name": "Superliga",
+      "id": 2050,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_THREE"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg",
+        "countryCode": "DNK",
+        "name": "Denmark",
+        "id": 2065
+      },
+      "lastUpdated": "2018-07-13T13:34:22Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": null,
+      "name": "Play Offs 1/2",
+      "id": 2141,
+      "numberOfAvailableSeasons": 0,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": null,
+        "countryCode": "ECU",
+        "name": "Ecuador",
+        "id": 2069
+      },
+      "lastUpdated": "2021-04-14T21:28:16Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 8,
+        "endDate": "2021-12-05",
+        "id": 720,
+        "startDate": "2021-02-19"
+      },
+      "name": "Copa Pilsener Serie A",
+      "id": 2052,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg",
+        "countryCode": "ENG",
+        "name": "England",
+        "id": 2072
+      },
+      "lastUpdated": "2021-01-07T02:40:01Z",
+      "code": "FLC",
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": null,
+        "endDate": "2021-02-28",
+        "id": 623,
+        "startDate": "2020-09-05"
+      },
+      "name": "Football League Cup",
+      "id": 2139,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_THREE"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg",
+        "countryCode": "ENG",
+        "name": "England",
+        "id": 2072
+      },
+      "lastUpdated": "2020-09-07T20:57:30Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": null,
+        "endDate": "2020-08-29",
+        "id": 613,
+        "startDate": "2020-08-29"
+      },
+      "name": "FA Community Shield",
+      "id": 2056,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg",
+        "countryCode": "ENG",
+        "name": "England",
+        "id": 2072
+      },
+      "lastUpdated": "2021-03-22T01:10:08Z",
+      "code": "FAC",
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": null,
+        "endDate": "2021-05-15",
+        "id": 641,
+        "startDate": "2020-09-01"
+      },
+      "name": "FA Cup",
+      "id": 2055,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_TWO"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg",
+        "countryCode": "ENG",
+        "name": "England",
+        "id": 2072
+      },
+      "lastUpdated": "2021-04-14T21:25:05Z",
+      "code": "ENL",
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 40,
+        "endDate": "2021-06-13",
+        "id": 650,
+        "startDate": "2020-10-02"
+      },
+      "name": "National League",
+      "id": 2053,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg",
+        "countryCode": "ENG",
+        "name": "England",
+        "id": 2072
+      },
+      "lastUpdated": "2021-04-14T02:55:03Z",
+      "code": "EL2",
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 41,
+        "endDate": "2021-06-29",
+        "id": 630,
+        "startDate": "2020-09-12"
+      },
+      "name": "League Two",
+      "id": 2054,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_THREE"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg",
+        "countryCode": "ENG",
+        "name": "England",
+        "id": 2072
+      },
+      "lastUpdated": "2021-04-14T02:50:03Z",
+      "code": "EL1",
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 41,
+        "endDate": "2021-07-13",
+        "id": 629,
+        "startDate": "2020-09-12"
+      },
+      "name": "League One",
+      "id": 2030,
+      "numberOfAvailableSeasons": 12,
+      "plan": "TIER_TWO"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg",
+        "countryCode": "ENG",
+        "name": "England",
+        "id": 2072
+      },
+      "lastUpdated": "2021-04-14T02:45:03Z",
+      "code": "ELC",
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 41,
+        "endDate": "2021-08-04",
+        "id": 628,
+        "startDate": "2020-09-12"
+      },
+      "name": "Championship",
+      "id": 2016,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_ONE"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg",
+        "countryCode": "ENG",
+        "name": "England",
+        "id": 2072
+      },
+      "lastUpdated": "2021-04-13T03:05:03Z",
+      "code": "PL",
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 31,
+        "endDate": "2021-05-23",
+        "id": 619,
+        "startDate": "2020-09-12"
+      },
+      "name": "Premier League",
+      "id": 2021,
+      "numberOfAvailableSeasons": 28,
+      "plan": "TIER_ONE"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Flag_of_Estonia.svg",
+        "countryCode": "EST",
+        "name": "Estonia",
+        "id": 2075
+      },
+      "lastUpdated": "2021-04-11T23:59:58Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 7,
+        "endDate": "2021-11-06",
+        "id": 686,
+        "startDate": "2021-03-05"
+      },
+      "name": "Meistriliiga",
+      "id": 2057,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": null,
+        "countryCode": "EUR",
+        "name": "Europe",
+        "id": 2077
+      },
+      "lastUpdated": "2021-04-14T00:00:12Z",
+      "code": "EL",
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 6,
+        "endDate": "2021-05-26",
+        "id": 631,
+        "startDate": "2020-08-18"
+      },
+      "name": "UEFA Europa League",
+      "id": 2146,
+      "numberOfAvailableSeasons": 3,
+      "plan": "TIER_TWO"
+    },
+    {
+      "area": {
+        "ensignUrl": null,
+        "countryCode": "EUR",
+        "name": "Europe",
+        "id": 2077
+      },
+      "lastUpdated": "2021-04-14T21:28:17Z",
+      "code": "CL",
+      "emblemUrl": "https://upload.wikimedia.org/wikipedia/en/b/bf/UEFA_Champions_League_logo_2.svg",
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 6,
+        "endDate": "2021-05-29",
+        "id": 642,
+        "startDate": "2020-08-08"
+      },
+      "name": "UEFA Champions League",
+      "id": 2001,
+      "numberOfAvailableSeasons": 20,
+      "plan": "TIER_ONE"
+    },
+    {
+      "area": {
+        "ensignUrl": null,
+        "countryCode": "EUR",
+        "name": "Europe",
+        "id": 2077
+      },
+      "lastUpdated": "2020-09-10T13:51:03Z",
+      "code": "EC",
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 1,
+        "endDate": "2021-07-11",
+        "id": 507,
+        "startDate": "2021-06-11"
+      },
+      "name": "European Championship",
+      "id": 2018,
+      "numberOfAvailableSeasons": 16,
+      "plan": "TIER_ONE"
+    },
+    {
+      "area": {
+        "ensignUrl": null,
+        "countryCode": "EUR",
+        "name": "Europe",
+        "id": 2077
+      },
+      "lastUpdated": "2021-04-01T13:45:02Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 4,
+        "endDate": "2021-11-16",
+        "id": 687,
+        "startDate": "2021-03-24"
+      },
+      "name": "WC Qualification",
+      "id": 2007,
+      "numberOfAvailableSeasons": 2,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": null,
+        "countryCode": "EUR",
+        "name": "Europe",
+        "id": 2077
+      },
+      "lastUpdated": "2020-09-07T20:55:12Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 3,
+        "endDate": "2017-08-06",
+        "id": 62,
+        "startDate": "2017-07-16"
+      },
+      "name": "UEFA Women's EURO",
+      "id": 2058,
+      "numberOfAvailableSeasons": 1,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg",
+        "countryCode": "FIN",
+        "name": "Finland",
+        "id": 2080
+      },
+      "lastUpdated": "2021-04-10T21:17:09Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 3,
+        "endDate": "2021-10-31",
+        "id": 689,
+        "startDate": "2021-01-24"
+      },
+      "name": "Suomen Cup",
+      "id": 2059,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg",
+        "countryCode": "FIN",
+        "name": "Finland",
+        "id": 2080
+      },
+      "lastUpdated": "2020-11-14T18:00:09Z",
+      "code": "VEI",
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 13,
+        "endDate": "2021-10-31",
+        "id": 688,
+        "startDate": "2021-04-10"
+      },
+      "name": "Veikkausliiga",
+      "id": 2031,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_THREE"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg",
+        "countryCode": "FRA",
+        "name": "France",
+        "id": 2081
+      },
+      "lastUpdated": "2020-09-10T13:52:55Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": null,
+        "endDate": "2020-04-04",
+        "id": 522,
+        "startDate": "2019-08-13"
+      },
+      "name": "Coupe de la Ligue",
+      "id": 2135,
+      "numberOfAvailableSeasons": 3,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg",
+        "countryCode": "FRA",
+        "name": "France",
+        "id": 2081
+      },
+      "lastUpdated": "2021-04-14T21:28:17Z",
+      "code": "FL2",
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 32,
+        "endDate": "2021-05-15",
+        "id": 597,
+        "startDate": "2020-08-22"
+      },
+      "name": "Ligue 2",
+      "id": 2142,
+      "numberOfAvailableSeasons": 23,
+      "plan": "TIER_TWO"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg",
+        "countryCode": "FRA",
+        "name": "France",
+        "id": 2081
+      },
+      "lastUpdated": "2021-04-12T14:35:05Z",
+      "code": "FL1",
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 33,
+        "endDate": "2021-05-23",
+        "id": 596,
+        "startDate": "2020-08-22"
+      },
+      "name": "Ligue 1",
+      "id": 2015,
+      "numberOfAvailableSeasons": 11,
+      "plan": "TIER_ONE"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg",
+        "countryCode": "FRA",
+        "name": "France",
+        "id": 2081
+      },
+      "lastUpdated": "2021-01-14T17:55:00Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": null,
+        "endDate": "2021-01-31",
+        "id": 655,
+        "startDate": "2021-01-01"
+      },
+      "name": "Trophée des Champions",
+      "id": 2136,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg",
+        "countryCode": "FRA",
+        "name": "France",
+        "id": 2081
+      },
+      "lastUpdated": "2018-07-12T14:32:17Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": null,
+        "endDate": "2018-05-27",
+        "id": 211,
+        "startDate": "2018-05-23"
+      },
+      "name": "Playoffs 1/2",
+      "id": 2143,
+      "numberOfAvailableSeasons": 1,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg",
+        "countryCode": "FRA",
+        "name": "France",
+        "id": 2081
+      },
+      "lastUpdated": "2018-09-25T15:07:37Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": null,
+        "endDate": "2018-05-27",
+        "id": 212,
+        "startDate": "2018-05-22"
+      },
+      "name": "Playoffs 2/3",
+      "id": 2144,
+      "numberOfAvailableSeasons": 1,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg",
+        "countryCode": "FRA",
+        "name": "France",
+        "id": 2081
+      },
+      "lastUpdated": "2021-04-08T22:29:55Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": null,
+        "endDate": "2021-05-30",
+        "id": 690,
+        "startDate": "2020-11-21"
+      },
+      "name": "Coupe de France",
+      "id": 2138,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg",
+        "countryCode": "DEU",
+        "name": "Germany",
+        "id": 2088
+      },
+      "lastUpdated": "2021-04-07T23:59:55Z",
+      "code": "DFB",
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": null,
+        "endDate": "2021-05-13",
+        "id": 604,
+        "startDate": "2020-09-11"
+      },
+      "name": "DFB-Pokal",
+      "id": 2011,
+      "numberOfAvailableSeasons": 7,
+      "plan": "TIER_TWO"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg",
+        "countryCode": "DEU",
+        "name": "Germany",
+        "id": 2088
+      },
+      "lastUpdated": "2021-04-14T21:28:17Z",
+      "code": "REG",
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 35,
+        "endDate": "2021-06-05",
+        "id": 602,
+        "startDate": "2020-08-15"
+      },
+      "name": "Regionalliga",
+      "id": 2129,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_THREE"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg",
+        "countryCode": "DEU",
+        "name": "Germany",
+        "id": 2088
+      },
+      "lastUpdated": "2021-04-13T17:35:01Z",
+      "code": "BL3",
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 31,
+        "endDate": "2021-05-22",
+        "id": 601,
+        "startDate": "2020-09-18"
+      },
+      "name": "3. Liga",
+      "id": 2140,
+      "numberOfAvailableSeasons": 9,
+      "plan": "TIER_THREE"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg",
+        "countryCode": "DEU",
+        "name": "Germany",
+        "id": 2088
+      },
+      "lastUpdated": "2021-04-14T21:28:17Z",
+      "code": "BL2",
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 28,
+        "endDate": "2021-05-23",
+        "id": 600,
+        "startDate": "2020-09-18"
+      },
+      "name": "2. Bundesliga",
+      "id": 2004,
+      "numberOfAvailableSeasons": 25,
+      "plan": "TIER_TWO"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg",
+        "countryCode": "DEU",
+        "name": "Germany",
+        "id": 2088
+      },
+      "lastUpdated": "2021-04-13T02:35:03Z",
+      "code": "BL1",
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 28,
+        "endDate": "2021-05-15",
+        "id": 599,
+        "startDate": "2020-09-18"
+      },
+      "name": "Bundesliga",
+      "id": 2002,
+      "numberOfAvailableSeasons": 25,
+      "plan": "TIER_ONE"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg",
+        "countryCode": "DEU",
+        "name": "Germany",
+        "id": 2088
+      },
+      "lastUpdated": "2018-06-05T00:09:39Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": {
+          "crestUrl": null,
+          "name": "VfL Wolfsburg",
+          "tla": null,
+          "id": 7522,
+          "shortName": null
+        },
+        "currentMatchday": 22,
+        "endDate": "2018-06-03",
+        "id": 142,
+        "startDate": "2017-09-02"
+      },
+      "name": "Frauen Bundesliga",
+      "id": 2133,
+      "numberOfAvailableSeasons": 1,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg",
+        "countryCode": "DEU",
+        "name": "Germany",
+        "id": 2088
+      },
+      "lastUpdated": "2020-10-01T16:15:04Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": null,
+        "endDate": "2020-09-30",
+        "id": 605,
+        "startDate": "2020-09-30"
+      },
+      "name": "DFL Super Cup",
+      "id": 2134,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg",
+        "countryCode": "GRC",
+        "name": "Greece",
+        "id": 2093
+      },
+      "lastUpdated": "2021-04-08T19:35:03Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": null,
+        "endDate": "2021-05-30",
+        "id": 656,
+        "startDate": "2020-11-01"
+      },
+      "name": "Greek Cup",
+      "id": 2131,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg",
+        "countryCode": "GRC",
+        "name": "Greece",
+        "id": 2093
+      },
+      "lastUpdated": "2021-04-13T01:00:04Z",
+      "code": "GSL",
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 26,
+        "endDate": "2021-05-30",
+        "id": 652,
+        "startDate": "2020-09-11"
+      },
+      "name": "Super League",
+      "id": 2132,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg",
+        "countryCode": "GRC",
+        "name": "Greece",
+        "id": 2093
+      },
+      "lastUpdated": "2021-02-05T07:21:43Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": null,
+        "endDate": "2007-10-31",
+        "id": 684,
+        "startDate": "2007-10-31"
+      },
+      "name": "Souper Kap Ellados",
+      "id": 2150,
+      "numberOfAvailableSeasons": 1,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg",
+        "countryCode": "HUN",
+        "name": "Hungary",
+        "id": 2106
+      },
+      "lastUpdated": "2021-04-14T21:07:57Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": null,
+        "endDate": "2021-05-30",
+        "id": 696,
+        "startDate": "2020-09-16"
+      },
+      "name": "Magyar Kupa",
+      "id": 2130,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg",
+        "countryCode": "HUN",
+        "name": "Hungary",
+        "id": 2106
+      },
+      "lastUpdated": "2021-04-12T16:40:08Z",
+      "code": "HNB",
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 29,
+        "endDate": "2021-05-15",
+        "id": 614,
+        "startDate": "2020-08-14"
+      },
+      "name": "NB I",
+      "id": 2128,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_THREE"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Iceland.svg",
+        "countryCode": "ISL",
+        "name": "Iceland",
+        "id": 2107
+      },
+      "lastUpdated": "2020-11-29T00:00:30Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 10,
+        "endDate": "2020-09-26",
+        "id": 585,
+        "startDate": "2020-04-22"
+      },
+      "name": "Úrvalsdeild",
+      "id": 2127,
+      "numberOfAvailableSeasons": 3,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": null,
+        "countryCode": "IND",
+        "name": "India",
+        "id": 2108
+      },
+      "lastUpdated": "2021-03-27T15:54:29Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 11,
+        "endDate": "2021-05-30",
+        "id": 676,
+        "startDate": "2021-01-09"
+      },
+      "name": "I-League",
+      "id": 2126,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
+        "countryCode": "ISR",
+        "name": "Israel",
+        "id": 2113
+      },
+      "lastUpdated": "2021-04-13T19:15:03Z",
+      "code": "ILH",
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 26,
+        "endDate": "2021-05-22",
+        "id": 632,
+        "startDate": "2020-08-29"
+      },
+      "name": "Ligat ha'Al",
+      "id": 2125,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg",
+        "countryCode": "ITA",
+        "name": "Italy",
+        "id": 2114
+      },
+      "lastUpdated": "2020-09-10T12:14:03Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": null,
+        "endDate": "2021-01-20",
+        "id": 692,
+        "startDate": "2021-01-20"
+      },
+      "name": "Supercoppa",
+      "id": 2124,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg",
+        "countryCode": "ITA",
+        "name": "Italy",
+        "id": 2114
+      },
+      "lastUpdated": "2021-02-11T16:30:06Z",
+      "code": "CIT",
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": null,
+        "endDate": "2021-05-19",
+        "id": 657,
+        "startDate": "2020-09-22"
+      },
+      "name": "Coppa Italia",
+      "id": 2122,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_THREE"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg",
+        "countryCode": "ITA",
+        "name": "Italy",
+        "id": 2114
+      },
+      "lastUpdated": "2021-04-14T21:28:17Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 36,
+        "endDate": "2021-06-06",
+        "id": 691,
+        "startDate": "2020-09-26"
+      },
+      "name": "Serie C",
+      "id": 2123,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg",
+        "countryCode": "ITA",
+        "name": "Italy",
+        "id": 2114
+      },
+      "lastUpdated": "2021-04-13T19:25:19Z",
+      "code": "SB",
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 33,
+        "endDate": "2021-06-06",
+        "id": 649,
+        "startDate": "2020-09-26"
+      },
+      "name": "Serie B",
+      "id": 2121,
+      "numberOfAvailableSeasons": 16,
+      "plan": "TIER_TWO"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg",
+        "countryCode": "ITA",
+        "name": "Italy",
+        "id": 2114
+      },
+      "lastUpdated": "2021-04-13T02:45:02Z",
+      "code": "SA",
+      "emblemUrl": "https://crests.football-data.org/SA.svg",
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 30,
+        "endDate": "2021-05-23",
+        "id": 638,
+        "startDate": "2020-09-20"
+      },
+      "name": "Serie A",
+      "id": 2019,
+      "numberOfAvailableSeasons": 17,
+      "plan": "TIER_ONE"
+    },
+    {
+      "area": {
+        "ensignUrl": null,
+        "countryCode": "JPN",
+        "name": "Japan",
+        "id": 2116
+      },
+      "lastUpdated": "2021-01-04T23:59:37Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 6,
+        "endDate": "2020-10-31",
+        "id": 581,
+        "startDate": "2020-02-16"
+      },
+      "name": "J.League Cup",
+      "id": 2118,
+      "numberOfAvailableSeasons": 3,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": null,
+        "countryCode": "JPN",
+        "name": "Japan",
+        "id": 2116
+      },
+      "lastUpdated": "2021-04-11T23:59:44Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 8,
+        "endDate": "2021-12-05",
+        "id": 694,
+        "startDate": "2021-02-27"
+      },
+      "name": "J. League Division 2",
+      "id": 2117,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": null,
+        "countryCode": "JPN",
+        "name": "Japan",
+        "id": 2116
+      },
+      "lastUpdated": "2021-04-14T21:28:18Z",
+      "code": "JJL",
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 19,
+        "endDate": "2021-12-04",
+        "id": 693,
+        "startDate": "2021-02-26"
+      },
+      "name": "J. League",
+      "id": 2119,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_TWO"
+    },
+    {
+      "area": {
+        "ensignUrl": null,
+        "countryCode": "JPN",
+        "name": "Japan",
+        "id": 2116
+      },
+      "lastUpdated": "2021-02-20T08:30:26Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": null,
+        "endDate": "2021-02-23",
+        "id": 695,
+        "startDate": "2021-02-20"
+      },
+      "name": "Super Cup",
+      "id": 2120,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Latvia.svg",
+        "countryCode": "LVA",
+        "name": "Latvia",
+        "id": 2129
+      },
+      "lastUpdated": "2020-11-30T18:35:10Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 36,
+        "endDate": "2020-11-14",
+        "id": 579,
+        "startDate": "2020-03-13"
+      },
+      "name": "Virslīga",
+      "id": 2116,
+      "numberOfAvailableSeasons": 3,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Lithuania.svg",
+        "countryCode": "LTU",
+        "name": "Lithuania",
+        "id": 2135
+      },
+      "lastUpdated": "2020-11-15T14:30:16Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 30,
+        "endDate": "2020-11-07",
+        "id": 590,
+        "startDate": "2020-03-06"
+      },
+      "name": "A Lyga",
+      "id": 2115,
+      "numberOfAvailableSeasons": 3,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Malta.svg",
+        "countryCode": "MLT",
+        "name": "Malta",
+        "id": 2143
+      },
+      "lastUpdated": "2021-04-10T00:00:24Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 27,
+        "endDate": "2021-05-30",
+        "id": 633,
+        "startDate": "2020-09-11"
+      },
+      "name": "Premier League",
+      "id": 2114,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": null,
+        "countryCode": "MEX",
+        "name": "Mexico",
+        "id": 2149
+      },
+      "lastUpdated": "2020-09-10T13:57:18Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": null,
+        "endDate": "2019-07-14",
+        "id": 480,
+        "startDate": "2019-07-14"
+      },
+      "name": "SuperCopa MX",
+      "id": 2112,
+      "numberOfAvailableSeasons": 3,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": null,
+        "countryCode": "MEX",
+        "name": "Mexico",
+        "id": 2149
+      },
+      "lastUpdated": "2020-11-05T11:16:35Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 7,
+        "endDate": "2020-04-15",
+        "id": 479,
+        "startDate": "2019-07-30"
+      },
+      "name": "Copa MX",
+      "id": 2111,
+      "numberOfAvailableSeasons": 3,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": null,
+        "countryCode": "MEX",
+        "name": "Mexico",
+        "id": 2149
+      },
+      "lastUpdated": "2021-04-13T23:59:39Z",
+      "code": "LMX",
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 17,
+        "endDate": "2021-05-27",
+        "id": 606,
+        "startDate": "2020-07-24"
+      },
+      "name": "Liga MX",
+      "id": 2113,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_THREE"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg",
+        "countryCode": "NLD",
+        "name": "Netherlands",
+        "id": 2163
+      },
+      "lastUpdated": "2021-03-04T02:50:08Z",
+      "code": "KNV",
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": null,
+        "endDate": "2021-04-18",
+        "id": 697,
+        "startDate": "2020-08-29"
+      },
+      "name": "KNVB Beker",
+      "id": 2109,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_THREE"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg",
+        "countryCode": "NLD",
+        "name": "Netherlands",
+        "id": 2163
+      },
+      "lastUpdated": "2021-04-13T02:30:05Z",
+      "code": "DJL",
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 33,
+        "endDate": "2021-05-14",
+        "id": 616,
+        "startDate": "2020-08-28"
+      },
+      "name": "Jupiler League",
+      "id": 2005,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_THREE"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg",
+        "countryCode": "NLD",
+        "name": "Netherlands",
+        "id": 2163
+      },
+      "lastUpdated": "2021-04-12T00:00:11Z",
+      "code": "DED",
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 29,
+        "endDate": "2021-05-16",
+        "id": 615,
+        "startDate": "2020-09-12"
+      },
+      "name": "Eredivisie",
+      "id": 2003,
+      "numberOfAvailableSeasons": 11,
+      "plan": "TIER_ONE"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg",
+        "countryCode": "NLD",
+        "name": "Netherlands",
+        "id": 2163
+      },
+      "lastUpdated": "2019-07-28T00:20:08Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": null,
+        "endDate": "2019-07-27",
+        "id": 483,
+        "startDate": "2019-07-27"
+      },
+      "name": "Johan Cruijff Schaal",
+      "id": 2110,
+      "numberOfAvailableSeasons": 3,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg",
+        "countryCode": "NIR",
+        "name": "Northern Ireland",
+        "id": 2171
+      },
+      "lastUpdated": "2020-09-10T14:06:21Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": null,
+        "endDate": "2020-02-15",
+        "id": 528,
+        "startDate": "2019-08-10"
+      },
+      "name": "League Cup",
+      "id": 2108,
+      "numberOfAvailableSeasons": 3,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg",
+        "countryCode": "NIR",
+        "name": "Northern Ireland",
+        "id": 2171
+      },
+      "lastUpdated": "2020-09-10T14:06:12Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 33,
+        "endDate": "2020-05-11",
+        "id": 496,
+        "startDate": "2019-08-10"
+      },
+      "name": "Premiership",
+      "id": 2107,
+      "numberOfAvailableSeasons": 3,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg",
+        "countryCode": "NOR",
+        "name": "Norway",
+        "id": 2173
+      },
+      "lastUpdated": "2021-04-14T00:00:12Z",
+      "code": "TIP",
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 3,
+        "endDate": "2021-11-28",
+        "id": 698,
+        "startDate": "2021-04-05"
+      },
+      "name": "Tippeligaen",
+      "id": 2106,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_THREE"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg",
+        "countryCode": "NOR",
+        "name": "Norway",
+        "id": 2173
+      },
+      "lastUpdated": "2021-04-11T00:19:33Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 2,
+        "endDate": "2021-11-06",
+        "id": 699,
+        "startDate": "2021-04-06"
+      },
+      "name": "1. divisjon",
+      "id": 2105,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg",
+        "countryCode": "NOR",
+        "name": "Norway",
+        "id": 2173
+      },
+      "lastUpdated": "2018-06-05T00:20:23Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": null,
+        "endDate": "2017-12-02",
+        "id": 112,
+        "startDate": "2017-11-29"
+      },
+      "name": "Playoffs 1/2",
+      "id": 2104,
+      "numberOfAvailableSeasons": 1,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": null,
+        "countryCode": "OCE",
+        "name": "Oceania",
+        "id": 2175
+      },
+      "lastUpdated": "2018-06-05T00:20:43Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 6,
+        "endDate": "2017-09-05",
+        "id": 111,
+        "startDate": "2015-08-31"
+      },
+      "name": "WC Qualification",
+      "id": 2103,
+      "numberOfAvailableSeasons": 1,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": null,
+        "countryCode": "PAN",
+        "name": "Panama",
+        "id": 2181
+      },
+      "lastUpdated": "2021-04-14T17:25:08Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 11,
+        "endDate": "2021-11-28",
+        "id": 701,
+        "startDate": "2021-02-19"
+      },
+      "name": "Liga Panameña de Fútbol",
+      "id": 2102,
+      "numberOfAvailableSeasons": 5,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": null,
+        "countryCode": "PER",
+        "name": "Peru",
+        "id": 2184
+      },
+      "lastUpdated": "2021-04-14T21:28:18Z",
+      "code": "PPD",
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 4,
+        "endDate": "2021-11-21",
+        "id": 721,
+        "startDate": "2021-03-14"
+      },
+      "name": "Primera División",
+      "id": 2101,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_THREE"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg",
+        "countryCode": "POL",
+        "name": "Poland",
+        "id": 2186
+      },
+      "lastUpdated": "2020-10-10T14:30:08Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": null,
+        "endDate": "2020-08-09",
+        "id": 607,
+        "startDate": "2020-08-09"
+      },
+      "name": "Superpuchar Polski",
+      "id": 2099,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg",
+        "countryCode": "POL",
+        "name": "Poland",
+        "id": 2186
+      },
+      "lastUpdated": "2021-04-14T21:28:18Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": null,
+        "endDate": "2021-05-30",
+        "id": 643,
+        "startDate": "2020-08-08"
+      },
+      "name": "Puchar Polski",
+      "id": 2100,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg",
+        "countryCode": "PRT",
+        "name": "Portugal",
+        "id": 2187
+      },
+      "lastUpdated": "2021-03-05T15:10:04Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": null,
+        "endDate": "2021-05-23",
+        "id": 659,
+        "startDate": "2020-09-27"
+      },
+      "name": "Taça de Portugal",
+      "id": 2098,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg",
+        "countryCode": "PRT",
+        "name": "Portugal",
+        "id": 2187
+      },
+      "lastUpdated": "2021-04-14T19:05:06Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 28,
+        "endDate": "2021-05-19",
+        "id": 645,
+        "startDate": "2020-09-13"
+      },
+      "name": "Liga2 Cabovisão",
+      "id": 2096,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg",
+        "countryCode": "PRT",
+        "name": "Portugal",
+        "id": 2187
+      },
+      "lastUpdated": "2021-04-12T02:35:11Z",
+      "code": "PPL",
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 27,
+        "endDate": "2021-05-19",
+        "id": 644,
+        "startDate": "2020-09-20"
+      },
+      "name": "Primeira Liga",
+      "id": 2017,
+      "numberOfAvailableSeasons": 10,
+      "plan": "TIER_ONE"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg",
+        "countryCode": "PRT",
+        "name": "Portugal",
+        "id": 2187
+      },
+      "lastUpdated": "2019-08-05T22:35:11Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": null,
+        "endDate": "2020-12-23",
+        "id": 702,
+        "startDate": "2020-12-23"
+      },
+      "name": "Supertaça Cândido de Oliveira",
+      "id": 2097,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg",
+        "countryCode": "IRL",
+        "name": "Republic of Ireland",
+        "id": 2192
+      },
+      "lastUpdated": "2020-11-10T16:20:03Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 35,
+        "endDate": "2020-10-23",
+        "id": 574,
+        "startDate": "2020-02-14"
+      },
+      "name": "Premier Division",
+      "id": 2095,
+      "numberOfAvailableSeasons": 3,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania.svg",
+        "countryCode": "ROU",
+        "name": "Romania",
+        "id": 2194
+      },
+      "lastUpdated": "2021-04-14T21:28:19Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 21,
+        "endDate": "2021-05-30",
+        "id": 713,
+        "startDate": "2020-08-29"
+      },
+      "name": "Liga II",
+      "id": 2092,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania.svg",
+        "countryCode": "ROU",
+        "name": "Romania",
+        "id": 2194
+      },
+      "lastUpdated": "2021-04-13T17:35:03Z",
+      "code": "RL1",
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 30,
+        "endDate": "2021-05-30",
+        "id": 624,
+        "startDate": "2020-08-21"
+      },
+      "name": "Liga I",
+      "id": 2094,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_THREE"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania.svg",
+        "countryCode": "ROU",
+        "name": "Romania",
+        "id": 2194
+      },
+      "lastUpdated": "2019-07-07T00:20:01Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": null,
+        "endDate": "2019-07-13",
+        "id": 515,
+        "startDate": "2019-07-13"
+      },
+      "name": "Supercupa României",
+      "id": 2093,
+      "numberOfAvailableSeasons": 3,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg",
+        "countryCode": "RUS",
+        "name": "Russia",
+        "id": 2195
+      },
+      "lastUpdated": "2021-04-08T20:48:55Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 3,
+        "endDate": "2021-05-12",
+        "id": 646,
+        "startDate": "2020-08-05"
+      },
+      "name": "Russian Cup",
+      "id": 2089,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg",
+        "countryCode": "RUS",
+        "name": "Russia",
+        "id": 2195
+      },
+      "lastUpdated": "2021-04-13T17:40:04Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 36,
+        "endDate": "2021-10-03",
+        "id": 634,
+        "startDate": "2020-08-01"
+      },
+      "name": "FNL",
+      "id": 2088,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg",
+        "countryCode": "RUS",
+        "name": "Russia",
+        "id": 2195
+      },
+      "lastUpdated": "2021-04-13T17:50:03Z",
+      "code": "RFPL",
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 25,
+        "endDate": "2021-05-16",
+        "id": 617,
+        "startDate": "2020-08-09"
+      },
+      "name": "RFPL",
+      "id": 2137,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_TWO"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg",
+        "countryCode": "RUS",
+        "name": "Russia",
+        "id": 2195
+      },
+      "lastUpdated": "2018-06-05T00:24:32Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": null,
+        "endDate": "2018-05-20",
+        "id": 96,
+        "startDate": "2018-05-17"
+      },
+      "name": "Playoffs 1/2",
+      "id": 2090,
+      "numberOfAvailableSeasons": 1,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg",
+        "countryCode": "RUS",
+        "name": "Russia",
+        "id": 2195
+      },
+      "lastUpdated": "2019-07-07T00:25:01Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": null,
+        "endDate": "2020-08-07",
+        "id": 647,
+        "startDate": "2020-08-07"
+      },
+      "name": "Russian Super Cup",
+      "id": 2091,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/Flag_of_Scotland.svg",
+        "countryCode": "SCO",
+        "name": "Scotland",
+        "id": 2204
+      },
+      "lastUpdated": "2021-04-06T05:00:11Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": null,
+        "endDate": "2021-05-08",
+        "id": 703,
+        "startDate": "2020-11-28"
+      },
+      "name": "Scottish Cup",
+      "id": 2087,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/Flag_of_Scotland.svg",
+        "countryCode": "SCO",
+        "name": "Scotland",
+        "id": 2204
+      },
+      "lastUpdated": "2021-04-14T03:10:07Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 24,
+        "endDate": "2021-05-30",
+        "id": 608,
+        "startDate": "2020-10-17"
+      },
+      "name": "Championship",
+      "id": 2085,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/Flag_of_Scotland.svg",
+        "countryCode": "SCO",
+        "name": "Scotland",
+        "id": 2204
+      },
+      "lastUpdated": "2021-04-12T00:00:14Z",
+      "code": "SPL",
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 33,
+        "endDate": "2021-05-30",
+        "id": 603,
+        "startDate": "2020-08-01"
+      },
+      "name": "Premier League",
+      "id": 2084,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_TWO"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/Flag_of_Scotland.svg",
+        "countryCode": "SCO",
+        "name": "Scotland",
+        "id": 2204
+      },
+      "lastUpdated": "2018-06-05T00:25:54Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": null,
+        "endDate": "2018-05-13",
+        "id": 92,
+        "startDate": "2018-05-02"
+      },
+      "name": "Playoffs 2/3",
+      "id": 2086,
+      "numberOfAvailableSeasons": 1,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": null,
+        "countryCode": "RSA",
+        "name": "South Africa",
+        "id": 2219
+      },
+      "lastUpdated": "2021-04-14T00:00:13Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": null,
+        "endDate": "2021-05-30",
+        "id": 704,
+        "startDate": "2020-10-24"
+      },
+      "name": "ABSA Premiership",
+      "id": 2083,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": null,
+        "countryCode": "SAM",
+        "name": "South America",
+        "id": 2220
+      },
+      "lastUpdated": "2020-09-10T14:02:11Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 1,
+        "endDate": "2020-07-12",
+        "id": 567,
+        "startDate": "2020-06-12"
+      },
+      "name": "Copa America",
+      "id": 2080,
+      "numberOfAvailableSeasons": 3,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": null,
+        "countryCode": "SAM",
+        "name": "South America",
+        "id": 2220
+      },
+      "lastUpdated": "2021-04-14T21:25:09Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 6,
+        "endDate": "2021-11-06",
+        "id": 723,
+        "startDate": "2021-03-16"
+      },
+      "name": "Copa Sudamericana",
+      "id": 2081,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": null,
+        "countryCode": "SAM",
+        "name": "South America",
+        "id": 2220
+      },
+      "lastUpdated": "2021-03-30T00:00:09Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 7,
+        "endDate": "2021-11-16",
+        "id": 524,
+        "startDate": "2020-03-23"
+      },
+      "name": "WC Qualification",
+      "id": 2082,
+      "numberOfAvailableSeasons": 2,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg",
+        "countryCode": "ESP",
+        "name": "Spain",
+        "id": 2224
+      },
+      "lastUpdated": "2021-04-04T03:52:02Z",
+      "code": "CDR",
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": null,
+        "endDate": "2021-04-17",
+        "id": 712,
+        "startDate": "2020-11-11"
+      },
+      "name": "Copa del Rey",
+      "id": 2079,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_THREE"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg",
+        "countryCode": "ESP",
+        "name": "Spain",
+        "id": 2224
+      },
+      "lastUpdated": "2021-04-14T21:28:19Z",
+      "code": "SD",
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 34,
+        "endDate": "2021-06-15",
+        "id": 636,
+        "startDate": "2020-09-13"
+      },
+      "name": "Segunda División",
+      "id": 2077,
+      "numberOfAvailableSeasons": 9,
+      "plan": "TIER_TWO"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg",
+        "countryCode": "ESP",
+        "name": "Spain",
+        "id": 2224
+      },
+      "lastUpdated": "2021-04-13T03:00:20Z",
+      "code": "PD",
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 30,
+        "endDate": "2021-05-23",
+        "id": 635,
+        "startDate": "2020-09-13"
+      },
+      "name": "Primera Division",
+      "id": 2014,
+      "numberOfAvailableSeasons": 28,
+      "plan": "TIER_ONE"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg",
+        "countryCode": "ESP",
+        "name": "Spain",
+        "id": 2224
+      },
+      "lastUpdated": "2020-01-13T10:40:04Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": null,
+        "endDate": "2021-01-17",
+        "id": 714,
+        "startDate": "2021-01-13"
+      },
+      "name": "Supercopa de España",
+      "id": 2078,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg",
+        "countryCode": "SWE",
+        "name": "Sweden",
+        "id": 2233
+      },
+      "lastUpdated": "2021-04-14T19:05:06Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 1,
+        "endDate": "2021-11-27",
+        "id": 710,
+        "startDate": "2021-04-10"
+      },
+      "name": "Superettan",
+      "id": 2074,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg",
+        "countryCode": "SWE",
+        "name": "Sweden",
+        "id": 2233
+      },
+      "lastUpdated": "2021-04-12T22:47:57Z",
+      "code": "ALL",
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 1,
+        "endDate": "2021-12-05",
+        "id": 709,
+        "startDate": "2021-04-11"
+      },
+      "name": "Allsvenskan",
+      "id": 2073,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_THREE"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg",
+        "countryCode": "SWE",
+        "name": "Sweden",
+        "id": 2233
+      },
+      "lastUpdated": "2018-06-05T00:28:54Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": null,
+        "endDate": "2017-11-19",
+        "id": 80,
+        "startDate": "2017-11-15"
+      },
+      "name": "Playoffs 1/2",
+      "id": 2076,
+      "numberOfAvailableSeasons": 1,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg",
+        "countryCode": "SWE",
+        "name": "Sweden",
+        "id": 2233
+      },
+      "lastUpdated": "2021-02-06T18:10:50Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": null,
+        "endDate": "2015-11-08",
+        "id": 711,
+        "startDate": "2015-11-08"
+      },
+      "name": "Svenska Supercupen",
+      "id": 2151,
+      "numberOfAvailableSeasons": 1,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg",
+        "countryCode": "SWE",
+        "name": "Sweden",
+        "id": 2233
+      },
+      "lastUpdated": "2018-06-05T00:28:43Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": null,
+        "endDate": "2017-11-11",
+        "id": 79,
+        "startDate": "2017-11-08"
+      },
+      "name": "Playoffs 2/3",
+      "id": 2075,
+      "numberOfAvailableSeasons": 1,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/Flag_of_Switzerland_%28Pantone%29.svg",
+        "countryCode": "CHE",
+        "name": "Switzerland",
+        "id": 2234
+      },
+      "lastUpdated": "2021-04-14T21:28:19Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": null,
+        "endDate": "2021-05-24",
+        "id": 660,
+        "startDate": "2020-08-28"
+      },
+      "name": "Schweizer Pokal",
+      "id": 2071,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/Flag_of_Switzerland_%28Pantone%29.svg",
+        "countryCode": "CHE",
+        "name": "Switzerland",
+        "id": 2234
+      },
+      "lastUpdated": "2021-04-12T00:00:16Z",
+      "code": "SSL",
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 29,
+        "endDate": "2021-05-21",
+        "id": 658,
+        "startDate": "2020-09-19"
+      },
+      "name": "Super League",
+      "id": 2072,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_THREE"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg",
+        "countryCode": "TUR",
+        "name": "Turkey",
+        "id": 2247
+      },
+      "lastUpdated": "2021-04-14T21:28:19Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 30,
+        "endDate": "2021-05-08",
+        "id": 707,
+        "startDate": "2020-09-13"
+      },
+      "name": "1. Lig",
+      "id": 2068,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg",
+        "countryCode": "TUR",
+        "name": "Turkey",
+        "id": 2247
+      },
+      "lastUpdated": "2021-04-12T23:59:57Z",
+      "code": "TSL",
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 34,
+        "endDate": "2021-05-16",
+        "id": 637,
+        "startDate": "2020-09-11"
+      },
+      "name": "Süper Lig",
+      "id": 2070,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_THREE"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg",
+        "countryCode": "TUR",
+        "name": "Turkey",
+        "id": 2247
+      },
+      "lastUpdated": "2019-08-07T21:11:21Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": null,
+        "endDate": "2021-01-27",
+        "id": 708,
+        "startDate": "2021-01-27"
+      },
+      "name": "TFF Süper Kupa",
+      "id": 2069,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg",
+        "countryCode": "UKR",
+        "name": "Ukraine",
+        "id": 2253
+      },
+      "lastUpdated": "2021-04-06T14:22:39Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": null,
+        "endDate": "2020-07-08",
+        "id": 551,
+        "startDate": "2019-08-07"
+      },
+      "name": "Kubok Ukrainy",
+      "id": 2065,
+      "numberOfAvailableSeasons": 3,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg",
+        "countryCode": "UKR",
+        "name": "Ukraine",
+        "id": 2253
+      },
+      "lastUpdated": "2021-04-12T01:10:16Z",
+      "code": "UPL",
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 22,
+        "endDate": "2021-05-30",
+        "id": 625,
+        "startDate": "2020-08-21"
+      },
+      "name": "Premier Liha",
+      "id": 2064,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_THREE"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg",
+        "countryCode": "UKR",
+        "name": "Ukraine",
+        "id": 2253
+      },
+      "lastUpdated": "2018-06-02T14:03:07Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": null,
+        "endDate": "2018-05-27",
+        "id": 70,
+        "startDate": "2018-05-23"
+      },
+      "name": "Playoffs 1/2",
+      "id": 2066,
+      "numberOfAvailableSeasons": 1,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg",
+        "countryCode": "UKR",
+        "name": "Ukraine",
+        "id": 2253
+      },
+      "lastUpdated": "2019-07-28T23:59:39Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": null,
+        "endDate": "2020-08-25",
+        "id": 648,
+        "startDate": "2020-08-25"
+      },
+      "name": "Superkubok Ukrainy",
+      "id": 2067,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": null,
+        "countryCode": "USA",
+        "name": "United States",
+        "id": 2256
+      },
+      "lastUpdated": "2020-12-13T06:57:37Z",
+      "code": "MLS",
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": null,
+        "endDate": "2021-12-11",
+        "id": 706,
+        "startDate": "2021-04-17"
+      },
+      "name": "MLS",
+      "id": 2145,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_TWO"
+    },
+    {
+      "area": {
+        "ensignUrl": null,
+        "countryCode": "URY",
+        "name": "Uruguay",
+        "id": 2257
+      },
+      "lastUpdated": "2021-03-30T15:23:05Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 7,
+        "endDate": "2020-11-28",
+        "id": 588,
+        "startDate": "2020-02-15"
+      },
+      "name": "Primera División",
+      "id": 2063,
+      "numberOfAvailableSeasons": 3,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": null,
+        "countryCode": "URY",
+        "name": "Uruguay",
+        "id": 2257
+      },
+      "lastUpdated": "2020-01-30T10:47:26Z",
+      "code": "SUCU",
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 1,
+        "endDate": "2020-02-01",
+        "id": 569,
+        "startDate": "2020-02-01"
+      },
+      "name": "Supercopa Uruguaya",
+      "id": 2148,
+      "numberOfAvailableSeasons": 1,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": null,
+        "countryCode": "VEN",
+        "name": "Venezuela",
+        "id": 2262
+      },
+      "lastUpdated": "2021-04-12T19:02:38Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 1,
+        "endDate": "2021-11-28",
+        "id": 722,
+        "startDate": "2021-04-04"
+      },
+      "name": "Primera División",
+      "id": 2062,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": null,
+        "countryCode": "VIE",
+        "name": "Vietnam",
+        "id": 2263
+      },
+      "lastUpdated": "2021-04-12T23:59:38Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 9,
+        "endDate": "2021-10-31",
+        "id": 705,
+        "startDate": "2021-01-24"
+      },
+      "name": "V-League",
+      "id": 2061,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Wales_%281959%E2%80%93present%29.svg",
+        "countryCode": "WAL",
+        "name": "Wales",
+        "id": 2264
+      },
+      "lastUpdated": "2021-04-14T03:40:10Z",
+      "code": null,
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": null,
+        "currentMatchday": 22,
+        "endDate": "2021-05-30",
+        "id": 651,
+        "startDate": "2020-09-11"
+      },
+      "name": "Welsh Premier League",
+      "id": 2060,
+      "numberOfAvailableSeasons": 4,
+      "plan": "TIER_FOUR"
+    },
+    {
+      "area": {
+        "ensignUrl": null,
+        "countryCode": "INT",
+        "name": "World",
+        "id": 2267
+      },
+      "lastUpdated": "2020-09-10T13:58:14Z",
+      "code": "WC",
+      "emblemUrl": null,
+      "currentSeason": {
+        "winner": {
+          "crestUrl": "https://crests.football-data.org/773.svg",
+          "name": "France",
+          "tla": "FRA",
+          "id": 773,
+          "shortName": "France"
+        },
+        "currentMatchday": 3,
+        "endDate": "2018-07-15",
+        "id": 1,
+        "startDate": "2018-06-14"
+      },
+      "name": "FIFA World Cup",
+      "id": 2000,
+      "numberOfAvailableSeasons": 2,
+      "plan": "TIER_ONE"
+    }
+  ],
+  "filters": {}
+}

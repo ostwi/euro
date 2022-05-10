@@ -1,0 +1,1709 @@
+{
+  "count": 36,
+  "competition": {
+    "area": {
+      "name": "Europe",
+      "id": 2077
+    },
+    "lastUpdated": "2020-09-10T13:51:03Z",
+    "code": "EC",
+    "name": "European Championship",
+    "id": 2018,
+    "plan": "TIER_ONE"
+  },
+  "filters": {},
+  "matches": [
+    {
+      "matchday": 1,
+      "awayTeam": {
+        "name": "Italy",
+        "id": 784
+      },
+      "utcDate": "2021-06-11T19:00:00Z",
+      "lastUpdated": "2020-09-07T06:44:10Z",
+      "score": {
+        "duration": "REGULAR",
+        "winner": null,
+        "penalties": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "halfTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "fullTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "extraTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        }
+      },
+      "stage": "GROUP_STAGE",
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "season": {
+        "currentMatchday": 1,
+        "endDate": "2021-07-11",
+        "id": 507,
+        "startDate": "2021-06-11"
+      },
+      "homeTeam": {
+        "name": "Turkey",
+        "id": 803
+      },
+      "id": 285418,
+      "referees": [],
+      "status": "SCHEDULED",
+      "group": "Group A"
+    },
+    {
+      "matchday": 1,
+      "awayTeam": {
+        "name": "Switzerland",
+        "id": 788
+      },
+      "utcDate": "2021-06-12T13:00:00Z",
+      "lastUpdated": "2020-09-07T06:44:10Z",
+      "score": {
+        "duration": "REGULAR",
+        "winner": null,
+        "penalties": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "halfTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "fullTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "extraTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        }
+      },
+      "stage": "GROUP_STAGE",
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "season": {
+        "currentMatchday": 1,
+        "endDate": "2021-07-11",
+        "id": 507,
+        "startDate": "2021-06-11"
+      },
+      "homeTeam": {
+        "name": "Wales",
+        "id": 833
+      },
+      "id": 285419,
+      "referees": [],
+      "status": "SCHEDULED",
+      "group": "Group A"
+    },
+    {
+      "matchday": 1,
+      "awayTeam": {
+        "name": "Finland",
+        "id": 1976
+      },
+      "utcDate": "2021-06-12T16:00:00Z",
+      "lastUpdated": "2020-09-07T06:44:10Z",
+      "score": {
+        "duration": "REGULAR",
+        "winner": null,
+        "penalties": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "halfTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "fullTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "extraTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        }
+      },
+      "stage": "GROUP_STAGE",
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "season": {
+        "currentMatchday": 1,
+        "endDate": "2021-07-11",
+        "id": 507,
+        "startDate": "2021-06-11"
+      },
+      "homeTeam": {
+        "name": "Denmark",
+        "id": 782
+      },
+      "id": 285424,
+      "referees": [],
+      "status": "SCHEDULED",
+      "group": "Group B"
+    },
+    {
+      "matchday": 1,
+      "awayTeam": {
+        "name": "Russia",
+        "id": 808
+      },
+      "utcDate": "2021-06-12T19:00:00Z",
+      "lastUpdated": "2020-09-07T06:44:10Z",
+      "score": {
+        "duration": "REGULAR",
+        "winner": null,
+        "penalties": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "halfTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "fullTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "extraTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        }
+      },
+      "stage": "GROUP_STAGE",
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "season": {
+        "currentMatchday": 1,
+        "endDate": "2021-07-11",
+        "id": 507,
+        "startDate": "2021-06-11"
+      },
+      "homeTeam": {
+        "name": "Belgium",
+        "id": 805
+      },
+      "id": 285425,
+      "referees": [],
+      "status": "SCHEDULED",
+      "group": "Group B"
+    },
+    {
+      "matchday": 1,
+      "awayTeam": {
+        "name": "Croatia",
+        "id": 799
+      },
+      "utcDate": "2021-06-13T13:00:00Z",
+      "lastUpdated": "2020-09-07T06:44:11Z",
+      "score": {
+        "duration": "REGULAR",
+        "winner": null,
+        "penalties": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "halfTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "fullTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "extraTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        }
+      },
+      "stage": "GROUP_STAGE",
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "season": {
+        "currentMatchday": 1,
+        "endDate": "2021-07-11",
+        "id": 507,
+        "startDate": "2021-06-11"
+      },
+      "homeTeam": {
+        "name": "England",
+        "id": 770
+      },
+      "id": 285436,
+      "referees": [],
+      "status": "SCHEDULED",
+      "group": "Group D"
+    },
+    {
+      "matchday": 1,
+      "awayTeam": {
+        "name": "North Macedonia",
+        "id": 1977
+      },
+      "utcDate": "2021-06-13T16:00:00Z",
+      "lastUpdated": "2020-11-13T12:34:49Z",
+      "score": {
+        "duration": "REGULAR",
+        "winner": null,
+        "penalties": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "halfTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "fullTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "extraTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        }
+      },
+      "stage": "GROUP_STAGE",
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "season": {
+        "currentMatchday": 1,
+        "endDate": "2021-07-11",
+        "id": 507,
+        "startDate": "2021-06-11"
+      },
+      "homeTeam": {
+        "name": "Austria",
+        "id": 816
+      },
+      "id": 285430,
+      "referees": [],
+      "status": "SCHEDULED",
+      "group": "Group C"
+    },
+    {
+      "matchday": 1,
+      "awayTeam": {
+        "name": "Ukraine",
+        "id": 790
+      },
+      "utcDate": "2021-06-13T19:00:00Z",
+      "lastUpdated": "2020-09-07T06:44:11Z",
+      "score": {
+        "duration": "REGULAR",
+        "winner": null,
+        "penalties": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "halfTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "fullTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "extraTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        }
+      },
+      "stage": "GROUP_STAGE",
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "season": {
+        "currentMatchday": 1,
+        "endDate": "2021-07-11",
+        "id": 507,
+        "startDate": "2021-06-11"
+      },
+      "homeTeam": {
+        "name": "Netherlands",
+        "id": 8601
+      },
+      "id": 285431,
+      "referees": [],
+      "status": "SCHEDULED",
+      "group": "Group C"
+    },
+    {
+      "matchday": 1,
+      "awayTeam": {
+        "name": "Czech Republic",
+        "id": 798
+      },
+      "utcDate": "2021-06-14T13:00:00Z",
+      "lastUpdated": "2020-11-13T12:34:49Z",
+      "score": {
+        "duration": "REGULAR",
+        "winner": null,
+        "penalties": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "halfTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "fullTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "extraTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        }
+      },
+      "stage": "GROUP_STAGE",
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "season": {
+        "currentMatchday": 1,
+        "endDate": "2021-07-11",
+        "id": 507,
+        "startDate": "2021-06-11"
+      },
+      "homeTeam": {
+        "name": "Scotland",
+        "id": 8873
+      },
+      "id": 285437,
+      "referees": [],
+      "status": "SCHEDULED",
+      "group": "Group D"
+    },
+    {
+      "matchday": 1,
+      "awayTeam": {
+        "name": "Slovakia",
+        "id": 768
+      },
+      "utcDate": "2021-06-14T16:00:00Z",
+      "lastUpdated": "2020-11-13T12:34:50Z",
+      "score": {
+        "duration": "REGULAR",
+        "winner": null,
+        "penalties": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "halfTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "fullTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "extraTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        }
+      },
+      "stage": "GROUP_STAGE",
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "season": {
+        "currentMatchday": 1,
+        "endDate": "2021-07-11",
+        "id": 507,
+        "startDate": "2021-06-11"
+      },
+      "homeTeam": {
+        "name": "Poland",
+        "id": 794
+      },
+      "id": 285442,
+      "referees": [],
+      "status": "SCHEDULED",
+      "group": "Group E"
+    },
+    {
+      "matchday": 1,
+      "awayTeam": {
+        "name": "Sweden",
+        "id": 792
+      },
+      "utcDate": "2021-06-14T19:00:00Z",
+      "lastUpdated": "2020-09-07T06:44:11Z",
+      "score": {
+        "duration": "REGULAR",
+        "winner": null,
+        "penalties": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "halfTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "fullTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "extraTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        }
+      },
+      "stage": "GROUP_STAGE",
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "season": {
+        "currentMatchday": 1,
+        "endDate": "2021-07-11",
+        "id": 507,
+        "startDate": "2021-06-11"
+      },
+      "homeTeam": {
+        "name": "Spain",
+        "id": 760
+      },
+      "id": 285443,
+      "referees": [],
+      "status": "SCHEDULED",
+      "group": "Group E"
+    },
+    {
+      "matchday": 1,
+      "awayTeam": {
+        "name": "Portugal",
+        "id": 765
+      },
+      "utcDate": "2021-06-15T16:00:00Z",
+      "lastUpdated": "2020-11-13T12:34:50Z",
+      "score": {
+        "duration": "REGULAR",
+        "winner": null,
+        "penalties": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "halfTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "fullTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "extraTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        }
+      },
+      "stage": "GROUP_STAGE",
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "season": {
+        "currentMatchday": 1,
+        "endDate": "2021-07-11",
+        "id": 507,
+        "startDate": "2021-06-11"
+      },
+      "homeTeam": {
+        "name": "Hungary",
+        "id": 827
+      },
+      "id": 285448,
+      "referees": [],
+      "status": "SCHEDULED",
+      "group": "Group F"
+    },
+    {
+      "matchday": 1,
+      "awayTeam": {
+        "name": "Germany",
+        "id": 759
+      },
+      "utcDate": "2021-06-15T19:00:00Z",
+      "lastUpdated": "2020-09-07T06:44:12Z",
+      "score": {
+        "duration": "REGULAR",
+        "winner": null,
+        "penalties": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "halfTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "fullTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "extraTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        }
+      },
+      "stage": "GROUP_STAGE",
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "season": {
+        "currentMatchday": 1,
+        "endDate": "2021-07-11",
+        "id": 507,
+        "startDate": "2021-06-11"
+      },
+      "homeTeam": {
+        "name": "France",
+        "id": 773
+      },
+      "id": 285449,
+      "referees": [],
+      "status": "SCHEDULED",
+      "group": "Group F"
+    },
+    {
+      "matchday": 2,
+      "awayTeam": {
+        "name": "Russia",
+        "id": 808
+      },
+      "utcDate": "2021-06-16T13:00:00Z",
+      "lastUpdated": "2020-09-07T06:44:10Z",
+      "score": {
+        "duration": "REGULAR",
+        "winner": null,
+        "penalties": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "halfTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "fullTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "extraTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        }
+      },
+      "stage": "GROUP_STAGE",
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "season": {
+        "currentMatchday": 1,
+        "endDate": "2021-07-11",
+        "id": 507,
+        "startDate": "2021-06-11"
+      },
+      "homeTeam": {
+        "name": "Finland",
+        "id": 1976
+      },
+      "id": 285426,
+      "referees": [],
+      "status": "SCHEDULED",
+      "group": "Group B"
+    },
+    {
+      "matchday": 2,
+      "awayTeam": {
+        "name": "Wales",
+        "id": 833
+      },
+      "utcDate": "2021-06-16T16:00:00Z",
+      "lastUpdated": "2020-09-07T06:44:10Z",
+      "score": {
+        "duration": "REGULAR",
+        "winner": null,
+        "penalties": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "halfTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "fullTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "extraTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        }
+      },
+      "stage": "GROUP_STAGE",
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "season": {
+        "currentMatchday": 1,
+        "endDate": "2021-07-11",
+        "id": 507,
+        "startDate": "2021-06-11"
+      },
+      "homeTeam": {
+        "name": "Turkey",
+        "id": 803
+      },
+      "id": 285420,
+      "referees": [],
+      "status": "SCHEDULED",
+      "group": "Group A"
+    },
+    {
+      "matchday": 2,
+      "awayTeam": {
+        "name": "Switzerland",
+        "id": 788
+      },
+      "utcDate": "2021-06-16T19:00:00Z",
+      "lastUpdated": "2020-09-07T06:44:10Z",
+      "score": {
+        "duration": "REGULAR",
+        "winner": null,
+        "penalties": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "halfTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "fullTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "extraTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        }
+      },
+      "stage": "GROUP_STAGE",
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "season": {
+        "currentMatchday": 1,
+        "endDate": "2021-07-11",
+        "id": 507,
+        "startDate": "2021-06-11"
+      },
+      "homeTeam": {
+        "name": "Italy",
+        "id": 784
+      },
+      "id": 285421,
+      "referees": [],
+      "status": "SCHEDULED",
+      "group": "Group A"
+    },
+    {
+      "matchday": 2,
+      "awayTeam": {
+        "name": "North Macedonia",
+        "id": 1977
+      },
+      "utcDate": "2021-06-17T13:00:00Z",
+      "lastUpdated": "2020-11-13T12:34:49Z",
+      "score": {
+        "duration": "REGULAR",
+        "winner": null,
+        "penalties": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "halfTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "fullTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "extraTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        }
+      },
+      "stage": "GROUP_STAGE",
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "season": {
+        "currentMatchday": 1,
+        "endDate": "2021-07-11",
+        "id": 507,
+        "startDate": "2021-06-11"
+      },
+      "homeTeam": {
+        "name": "Ukraine",
+        "id": 790
+      },
+      "id": 285432,
+      "referees": [],
+      "status": "SCHEDULED",
+      "group": "Group C"
+    },
+    {
+      "matchday": 2,
+      "awayTeam": {
+        "name": "Belgium",
+        "id": 805
+      },
+      "utcDate": "2021-06-17T16:00:00Z",
+      "lastUpdated": "2020-09-07T06:44:10Z",
+      "score": {
+        "duration": "REGULAR",
+        "winner": null,
+        "penalties": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "halfTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "fullTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "extraTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        }
+      },
+      "stage": "GROUP_STAGE",
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "season": {
+        "currentMatchday": 1,
+        "endDate": "2021-07-11",
+        "id": 507,
+        "startDate": "2021-06-11"
+      },
+      "homeTeam": {
+        "name": "Denmark",
+        "id": 782
+      },
+      "id": 285427,
+      "referees": [],
+      "status": "SCHEDULED",
+      "group": "Group B"
+    },
+    {
+      "matchday": 2,
+      "awayTeam": {
+        "name": "Austria",
+        "id": 816
+      },
+      "utcDate": "2021-06-17T19:00:00Z",
+      "lastUpdated": "2020-09-07T06:44:11Z",
+      "score": {
+        "duration": "REGULAR",
+        "winner": null,
+        "penalties": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "halfTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "fullTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "extraTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        }
+      },
+      "stage": "GROUP_STAGE",
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "season": {
+        "currentMatchday": 1,
+        "endDate": "2021-07-11",
+        "id": 507,
+        "startDate": "2021-06-11"
+      },
+      "homeTeam": {
+        "name": "Netherlands",
+        "id": 8601
+      },
+      "id": 285433,
+      "referees": [],
+      "status": "SCHEDULED",
+      "group": "Group C"
+    },
+    {
+      "matchday": 2,
+      "awayTeam": {
+        "name": "Slovakia",
+        "id": 768
+      },
+      "utcDate": "2021-06-18T13:00:00Z",
+      "lastUpdated": "2020-11-13T12:34:50Z",
+      "score": {
+        "duration": "REGULAR",
+        "winner": null,
+        "penalties": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "halfTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "fullTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "extraTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        }
+      },
+      "stage": "GROUP_STAGE",
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "season": {
+        "currentMatchday": 1,
+        "endDate": "2021-07-11",
+        "id": 507,
+        "startDate": "2021-06-11"
+      },
+      "homeTeam": {
+        "name": "Sweden",
+        "id": 792
+      },
+      "id": 285444,
+      "referees": [],
+      "status": "SCHEDULED",
+      "group": "Group E"
+    },
+    {
+      "matchday": 2,
+      "awayTeam": {
+        "name": "Czech Republic",
+        "id": 798
+      },
+      "utcDate": "2021-06-18T16:00:00Z",
+      "lastUpdated": "2020-09-07T06:44:11Z",
+      "score": {
+        "duration": "REGULAR",
+        "winner": null,
+        "penalties": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "halfTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "fullTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "extraTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        }
+      },
+      "stage": "GROUP_STAGE",
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "season": {
+        "currentMatchday": 1,
+        "endDate": "2021-07-11",
+        "id": 507,
+        "startDate": "2021-06-11"
+      },
+      "homeTeam": {
+        "name": "Croatia",
+        "id": 799
+      },
+      "id": 285438,
+      "referees": [],
+      "status": "SCHEDULED",
+      "group": "Group D"
+    },
+    {
+      "matchday": 2,
+      "awayTeam": {
+        "name": "Scotland",
+        "id": 8873
+      },
+      "utcDate": "2021-06-18T19:00:00Z",
+      "lastUpdated": "2020-11-13T12:34:49Z",
+      "score": {
+        "duration": "REGULAR",
+        "winner": null,
+        "penalties": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "halfTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "fullTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "extraTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        }
+      },
+      "stage": "GROUP_STAGE",
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "season": {
+        "currentMatchday": 1,
+        "endDate": "2021-07-11",
+        "id": 507,
+        "startDate": "2021-06-11"
+      },
+      "homeTeam": {
+        "name": "England",
+        "id": 770
+      },
+      "id": 285439,
+      "referees": [],
+      "status": "SCHEDULED",
+      "group": "Group D"
+    },
+    {
+      "matchday": 2,
+      "awayTeam": {
+        "name": "France",
+        "id": 773
+      },
+      "utcDate": "2021-06-19T13:00:00Z",
+      "lastUpdated": "2020-11-13T12:34:50Z",
+      "score": {
+        "duration": "REGULAR",
+        "winner": null,
+        "penalties": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "halfTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "fullTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "extraTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        }
+      },
+      "stage": "GROUP_STAGE",
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "season": {
+        "currentMatchday": 1,
+        "endDate": "2021-07-11",
+        "id": 507,
+        "startDate": "2021-06-11"
+      },
+      "homeTeam": {
+        "name": "Hungary",
+        "id": 827
+      },
+      "id": 285450,
+      "referees": [],
+      "status": "SCHEDULED",
+      "group": "Group F"
+    },
+    {
+      "matchday": 2,
+      "awayTeam": {
+        "name": "Germany",
+        "id": 759
+      },
+      "utcDate": "2021-06-19T16:00:00Z",
+      "lastUpdated": "2020-09-07T06:44:12Z",
+      "score": {
+        "duration": "REGULAR",
+        "winner": null,
+        "penalties": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "halfTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "fullTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "extraTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        }
+      },
+      "stage": "GROUP_STAGE",
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "season": {
+        "currentMatchday": 1,
+        "endDate": "2021-07-11",
+        "id": 507,
+        "startDate": "2021-06-11"
+      },
+      "homeTeam": {
+        "name": "Portugal",
+        "id": 765
+      },
+      "id": 285451,
+      "referees": [],
+      "status": "SCHEDULED",
+      "group": "Group F"
+    },
+    {
+      "matchday": 2,
+      "awayTeam": {
+        "name": "Poland",
+        "id": 794
+      },
+      "utcDate": "2021-06-19T19:00:00Z",
+      "lastUpdated": "2020-09-07T06:44:12Z",
+      "score": {
+        "duration": "REGULAR",
+        "winner": null,
+        "penalties": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "halfTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "fullTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "extraTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        }
+      },
+      "stage": "GROUP_STAGE",
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "season": {
+        "currentMatchday": 1,
+        "endDate": "2021-07-11",
+        "id": 507,
+        "startDate": "2021-06-11"
+      },
+      "homeTeam": {
+        "name": "Spain",
+        "id": 760
+      },
+      "id": 285445,
+      "referees": [],
+      "status": "SCHEDULED",
+      "group": "Group E"
+    },
+    {
+      "matchday": 3,
+      "awayTeam": {
+        "name": "Wales",
+        "id": 833
+      },
+      "utcDate": "2021-06-20T16:00:00Z",
+      "lastUpdated": "2020-09-07T06:44:10Z",
+      "score": {
+        "duration": "REGULAR",
+        "winner": null,
+        "penalties": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "halfTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "fullTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "extraTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        }
+      },
+      "stage": "GROUP_STAGE",
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "season": {
+        "currentMatchday": 1,
+        "endDate": "2021-07-11",
+        "id": 507,
+        "startDate": "2021-06-11"
+      },
+      "homeTeam": {
+        "name": "Italy",
+        "id": 784
+      },
+      "id": 285422,
+      "referees": [],
+      "status": "SCHEDULED",
+      "group": "Group A"
+    },
+    {
+      "matchday": 3,
+      "awayTeam": {
+        "name": "Turkey",
+        "id": 803
+      },
+      "utcDate": "2021-06-20T16:00:00Z",
+      "lastUpdated": "2020-09-07T06:44:10Z",
+      "score": {
+        "duration": "REGULAR",
+        "winner": null,
+        "penalties": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "halfTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "fullTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "extraTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        }
+      },
+      "stage": "GROUP_STAGE",
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "season": {
+        "currentMatchday": 1,
+        "endDate": "2021-07-11",
+        "id": 507,
+        "startDate": "2021-06-11"
+      },
+      "homeTeam": {
+        "name": "Switzerland",
+        "id": 788
+      },
+      "id": 285423,
+      "referees": [],
+      "status": "SCHEDULED",
+      "group": "Group A"
+    },
+    {
+      "matchday": 3,
+      "awayTeam": {
+        "name": "Netherlands",
+        "id": 8601
+      },
+      "utcDate": "2021-06-21T16:00:00Z",
+      "lastUpdated": "2020-11-13T12:34:49Z",
+      "score": {
+        "duration": "REGULAR",
+        "winner": null,
+        "penalties": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "halfTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "fullTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "extraTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        }
+      },
+      "stage": "GROUP_STAGE",
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "season": {
+        "currentMatchday": 1,
+        "endDate": "2021-07-11",
+        "id": 507,
+        "startDate": "2021-06-11"
+      },
+      "homeTeam": {
+        "name": "North Macedonia",
+        "id": 1977
+      },
+      "id": 285434,
+      "referees": [],
+      "status": "SCHEDULED",
+      "group": "Group C"
+    },
+    {
+      "matchday": 3,
+      "awayTeam": {
+        "name": "Austria",
+        "id": 816
+      },
+      "utcDate": "2021-06-21T16:00:00Z",
+      "lastUpdated": "2020-09-07T06:44:11Z",
+      "score": {
+        "duration": "REGULAR",
+        "winner": null,
+        "penalties": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "halfTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "fullTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "extraTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        }
+      },
+      "stage": "GROUP_STAGE",
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "season": {
+        "currentMatchday": 1,
+        "endDate": "2021-07-11",
+        "id": 507,
+        "startDate": "2021-06-11"
+      },
+      "homeTeam": {
+        "name": "Ukraine",
+        "id": 790
+      },
+      "id": 285435,
+      "referees": [],
+      "status": "SCHEDULED",
+      "group": "Group C"
+    },
+    {
+      "matchday": 3,
+      "awayTeam": {
+        "name": "Denmark",
+        "id": 782
+      },
+      "utcDate": "2021-06-21T19:00:00Z",
+      "lastUpdated": "2020-09-07T06:44:10Z",
+      "score": {
+        "duration": "REGULAR",
+        "winner": null,
+        "penalties": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "halfTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "fullTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "extraTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        }
+      },
+      "stage": "GROUP_STAGE",
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "season": {
+        "currentMatchday": 1,
+        "endDate": "2021-07-11",
+        "id": 507,
+        "startDate": "2021-06-11"
+      },
+      "homeTeam": {
+        "name": "Russia",
+        "id": 808
+      },
+      "id": 285428,
+      "referees": [],
+      "status": "SCHEDULED",
+      "group": "Group B"
+    },
+    {
+      "matchday": 3,
+      "awayTeam": {
+        "name": "Belgium",
+        "id": 805
+      },
+      "utcDate": "2021-06-21T19:00:00Z",
+      "lastUpdated": "2020-09-07T06:44:11Z",
+      "score": {
+        "duration": "REGULAR",
+        "winner": null,
+        "penalties": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "halfTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "fullTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "extraTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        }
+      },
+      "stage": "GROUP_STAGE",
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "season": {
+        "currentMatchday": 1,
+        "endDate": "2021-07-11",
+        "id": 507,
+        "startDate": "2021-06-11"
+      },
+      "homeTeam": {
+        "name": "Finland",
+        "id": 1976
+      },
+      "id": 285429,
+      "referees": [],
+      "status": "SCHEDULED",
+      "group": "Group B"
+    },
+    {
+      "matchday": 3,
+      "awayTeam": {
+        "name": "Scotland",
+        "id": 8873
+      },
+      "utcDate": "2021-06-22T19:00:00Z",
+      "lastUpdated": "2020-11-13T12:34:50Z",
+      "score": {
+        "duration": "REGULAR",
+        "winner": null,
+        "penalties": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "halfTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "fullTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "extraTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        }
+      },
+      "stage": "GROUP_STAGE",
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "season": {
+        "currentMatchday": 1,
+        "endDate": "2021-07-11",
+        "id": 507,
+        "startDate": "2021-06-11"
+      },
+      "homeTeam": {
+        "name": "Croatia",
+        "id": 799
+      },
+      "id": 285440,
+      "referees": [],
+      "status": "SCHEDULED",
+      "group": "Group D"
+    },
+    {
+      "matchday": 3,
+      "awayTeam": {
+        "name": "England",
+        "id": 770
+      },
+      "utcDate": "2021-06-22T19:00:00Z",
+      "lastUpdated": "2020-09-07T06:44:11Z",
+      "score": {
+        "duration": "REGULAR",
+        "winner": null,
+        "penalties": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "halfTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "fullTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "extraTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        }
+      },
+      "stage": "GROUP_STAGE",
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "season": {
+        "currentMatchday": 1,
+        "endDate": "2021-07-11",
+        "id": 507,
+        "startDate": "2021-06-11"
+      },
+      "homeTeam": {
+        "name": "Czech Republic",
+        "id": 798
+      },
+      "id": 285441,
+      "referees": [],
+      "status": "SCHEDULED",
+      "group": "Group D"
+    },
+    {
+      "matchday": 3,
+      "awayTeam": {
+        "name": "Spain",
+        "id": 760
+      },
+      "utcDate": "2021-06-23T16:00:00Z",
+      "lastUpdated": "2020-11-13T12:34:50Z",
+      "score": {
+        "duration": "REGULAR",
+        "winner": null,
+        "penalties": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "halfTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "fullTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "extraTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        }
+      },
+      "stage": "GROUP_STAGE",
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "season": {
+        "currentMatchday": 1,
+        "endDate": "2021-07-11",
+        "id": 507,
+        "startDate": "2021-06-11"
+      },
+      "homeTeam": {
+        "name": "Slovakia",
+        "id": 768
+      },
+      "id": 285446,
+      "referees": [],
+      "status": "SCHEDULED",
+      "group": "Group E"
+    },
+    {
+      "matchday": 3,
+      "awayTeam": {
+        "name": "Poland",
+        "id": 794
+      },
+      "utcDate": "2021-06-23T16:00:00Z",
+      "lastUpdated": "2020-09-07T06:44:12Z",
+      "score": {
+        "duration": "REGULAR",
+        "winner": null,
+        "penalties": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "halfTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "fullTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "extraTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        }
+      },
+      "stage": "GROUP_STAGE",
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "season": {
+        "currentMatchday": 1,
+        "endDate": "2021-07-11",
+        "id": 507,
+        "startDate": "2021-06-11"
+      },
+      "homeTeam": {
+        "name": "Sweden",
+        "id": 792
+      },
+      "id": 285447,
+      "referees": [],
+      "status": "SCHEDULED",
+      "group": "Group E"
+    },
+    {
+      "matchday": 3,
+      "awayTeam": {
+        "name": "Hungary",
+        "id": 827
+      },
+      "utcDate": "2021-06-23T19:00:00Z",
+      "lastUpdated": "2020-11-13T12:34:50Z",
+      "score": {
+        "duration": "REGULAR",
+        "winner": null,
+        "penalties": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "halfTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "fullTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "extraTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        }
+      },
+      "stage": "GROUP_STAGE",
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "season": {
+        "currentMatchday": 1,
+        "endDate": "2021-07-11",
+        "id": 507,
+        "startDate": "2021-06-11"
+      },
+      "homeTeam": {
+        "name": "Germany",
+        "id": 759
+      },
+      "id": 285452,
+      "referees": [],
+      "status": "SCHEDULED",
+      "group": "Group F"
+    },
+    {
+      "matchday": 3,
+      "awayTeam": {
+        "name": "France",
+        "id": 773
+      },
+      "utcDate": "2021-06-23T19:00:00Z",
+      "lastUpdated": "2020-09-07T06:44:12Z",
+      "score": {
+        "duration": "REGULAR",
+        "winner": null,
+        "penalties": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "halfTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "fullTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        },
+        "extraTime": {
+          "awayTeam": null,
+          "homeTeam": null
+        }
+      },
+      "stage": "GROUP_STAGE",
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "season": {
+        "currentMatchday": 1,
+        "endDate": "2021-07-11",
+        "id": 507,
+        "startDate": "2021-06-11"
+      },
+      "homeTeam": {
+        "name": "Portugal",
+        "id": 765
+      },
+      "id": 285453,
+      "referees": [],
+      "status": "SCHEDULED",
+      "group": "Group F"
+    }
+  ]
+}
